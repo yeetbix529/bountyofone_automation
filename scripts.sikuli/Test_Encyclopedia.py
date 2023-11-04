@@ -1,0 +1,7 @@
+doubleClick(Pattern("game_shortcut.png").similar(0.50))
+wait("main_menu.png",45)
+click("encyclopedia_button.png")
+wait("1699089082541.png",45)
+click("1699089594782.png")
+wait("main_menu.png",45)
+click("quit_button.png")
