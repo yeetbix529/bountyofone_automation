@@ -18,3 +18,5 @@ notes:
 future changes
 - it would be cool to try use pytest as the test-runner, and easier test management.
 - improve test designs // https://docs.google.com/spreadsheets/d/1UpWrzRSqfDXP_9hlPNWXFvVVdHpaLuLR9jGSBTet62A/edit?usp=sharing
+
+Test Example: https://youtu.be/gyAoRO11nf0
