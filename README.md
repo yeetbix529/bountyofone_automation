@@ -11,6 +11,7 @@ Usage:
 - File > Open
 - Scripts can be found in scripts.sikuli, select any of the files with the .py extension
 - Select Run or Run in slow motion
+
 notes:
 - you need to have a short-cut on desktop // this will be updated soon to open via cmdline # optimisation
 - make sure there there is clear view of the desktop screen behind the ide otherwise image-recognition fails
