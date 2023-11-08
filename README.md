@@ -22,6 +22,6 @@ notes:
 
 future changes
 - it would be cool to try use pytest as the test-runner, and easier test management.
-- improve test designs // https://docs.google.com/spreadsheets/d/1UpWrzRSqfDXP_9hlPNWXFvVVdHpaLuLR9jGSBTet62A/edit?usp=sharing
-- improve test manual test portfolio // https://www.figma.com/file/4NN6sqFuVJZpwaJEXaDDnr/Bounty-of-One%3A-Test-Portfolio?type=whiteboard&node-id=0%3A1&t=Vebh0LXrJ7jY5BiV-1
+- improve test designs // [Test Design](https://docs.google.com/spreadsheets/d/1UpWrzRSqfDXP_9hlPNWXFvVVdHpaLuLR9jGSBTet62A/edit?usp=sharing)
+- improve test manual test portfolio // [Portfolio](https://www.figma.com/file/4NN6sqFuVJZpwaJEXaDDnr/Bounty-of-One%3A-Test-Portfolio?type=whiteboard&node-id=0%3A1&t=Vebh0LXrJ7jY5BiV-1)
 
