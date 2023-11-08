@@ -20,7 +20,8 @@ notes:
 - you need to have a short-cut on desktop // this will be updated soon to open via cmdline # optimisation
 - make sure there there is clear view of the desktop screen behind the ide otherwise image-recognition fails
 
-future changes
+
+future improvements:
 - it would be cool to try use pytest as the test-runner, and easier test management.
 - improve test designs // [Design](https://docs.google.com/spreadsheets/d/1UpWrzRSqfDXP_9hlPNWXFvVVdHpaLuLR9jGSBTet62A/edit?usp=sharing)
 - improve test manual test portfolio // [Portfolio](https://www.figma.com/file/4NN6sqFuVJZpwaJEXaDDnr/Bounty-of-One%3A-Test-Portfolio?type=whiteboard&node-id=0%3A1&t=Vebh0LXrJ7jY5BiV-1)
