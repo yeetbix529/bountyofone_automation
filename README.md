@@ -2,7 +2,7 @@
 This personal project is an automation framework that focuses on image-recognition methods of testing the Bounty Of One Game found on Steam.
 https://store.steampowered.com/app/1968730/Bounty_of_One/
 
-Test Example: https://youtu.be/K0LUpkVQXjs
+Test Example: [Video](https://youtu.be/K0LUpkVQXjs)
 
 
 
