@@ -8,7 +8,7 @@ Test Example: [Video](https://youtu.be/K0LUpkVQXjs)
 
 Requirements: this framework is based on SikuliX open-source research project. I am currently using their IDE to create and run tests. 
 You need a version of JAVA installed to run.
-- A version of the IDE can be found here: https://raiman.github.io/SikuliX1/downloads.html
+- A version of the IDE can be found here: [Download](https://raiman.github.io/SikuliX1/downloads.html)
 
 Usage:
 - Open OpenSikulix_IDE.bat for ide
