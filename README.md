@@ -1,4 +1,4 @@
-# BountyOfOne Automation Testing Framework
+# BountyOfOne Automation Testing
 
 Welcome to my personal project, the BountyOfOne Automation Testing Framework. This project is all about utilizing the power of SikuliX, an open-source image recognition tool, to automate testing for the Bounty Of One Game, which can be found on Steam: [Bounty Of One on Steam](https://store.steampowered.com/app/1968730/Bounty_of_One/).
 
