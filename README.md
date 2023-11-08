@@ -2,8 +2,7 @@
 This personal project is an automation framework that focuses on image-recognition methods of testing the Bounty Of One Game found on Steam.
 https://store.steampowered.com/app/1968730/Bounty_of_One/
 
-Test Example:
-[![Watch the video](https://img.youtube.com/vi/K0LUpkVQXjs/default.jpg)](https://youtu.be/K0LUpkVQXjs)
+Test Example: Test Example: [Youtube Video](https://youtu.be/K0LUpkVQXjs)
 
 
 Requirements: this framework is based on SikuliX open-source research project. I am currently using their IDE to create and run tests. 
