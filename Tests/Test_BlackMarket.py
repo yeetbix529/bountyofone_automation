@@ -1,6 +1,6 @@
 doubleClick(Pattern("game_shortcut.png").similar(0.50))
 wait("main_menu.png",45)
 click("blackmarket_button.png")
-wait(Pattern("1698833404029.png").similar(0.81),45)
-click(Pattern("1698833416397.png").similar(0.41))
+wait("black_market.png",45)
+click("black_market_button.png")
 click("quit_button.png")
