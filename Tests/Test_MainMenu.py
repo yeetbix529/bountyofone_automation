@@ -1,5 +1,6 @@
+App.open("C:\Program Files (x86)\Steam\steamapps\common\BountyOfOne\BountyOfOne.exe")
+App.focus("BountyOfOne")
 
-doubleClick("game_shortcut.png")
 wait("main_menu.png",45)
 wait("start_button.png",45)
 wait("blackmarket_button.png",45)

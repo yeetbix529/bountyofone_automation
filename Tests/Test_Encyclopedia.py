@@ -1,4 +1,6 @@
-doubleClick(Pattern("game_shortcut.png").similar(0.50))
+App.open("C:\Program Files (x86)\Steam\steamapps\common\BountyOfOne\BountyOfOne.exe")
+App.focus("BountyOfOne")
+
 wait("main_menu.png",45)
 click("encyclopedia_button.png")
 wait("encyclopedia.png",45)
