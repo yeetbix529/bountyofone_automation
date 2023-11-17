@@ -1,4 +1,4 @@
-App.open("C:\Program Files (x86)\Steam\steamapps\common\BountyOfOne\BountyOfOne.exe")
+App.open("C:\ProgramFilesX86\Steam\steamapps\common\BountyOfOne\BountyOfOne.exe")
 App.focus("BountyOfOne")
 
 wait("main_menu.png",45)
