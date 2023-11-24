@@ -11,7 +11,7 @@ The core of this project is the automation of game checks using image recognitio
 </p>
 
 ## Test Example
-For a practical demonstration, you can watch a test example in action: [YouTube Video](https://youtu.be/K0LUpkVQXjs)
+
 
 ### Requirements
 To run this framework, you'll need to have Java installed. Additionally, you'll be using the SikuliX IDE to create and run tests. You can download a version of the IDE from [SikuliX's website](https://raiman.github.io/SikuliX1/downloads.html).
