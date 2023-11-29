@@ -16,4 +16,5 @@ click("encyclopedia_credits_button.png")
 wait("encyclopedia_credits.png",45)
 click("encyclopedia_back_button.png")
 wait("main_menu.png",45)
-click("quit_button.png")
+
+closeApp("C:\Program Files (x86)\Steam\steamapps\common\BountyOfOne\BountyOfOne.exe")

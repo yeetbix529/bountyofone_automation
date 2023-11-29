@@ -23,4 +23,5 @@ type(Key.SPACE)
 type(Key.SPACE)
 type(Key.SPACE)
 wait("main_menu.png",45)
-click("quit_button.png")
+
+closeApp("C:\Program Files (x86)\Steam\steamapps\common\BountyOfOne\BountyOfOne.exe")
